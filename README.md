@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://github.com/jakejohndoe)
+[![MasterHead](https://as1.ftcdn.net/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://github.com/jakejohndoe)
 
 
 <h1 align="center">Hi 👋, I'm Jakob Johnson</h1>
