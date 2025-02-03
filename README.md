@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://github.com/jakejohndoe)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/jakejohndoe)
 
 
 <h1 align="center">Hi 👋, I'm Jakob Johnson</h1>
