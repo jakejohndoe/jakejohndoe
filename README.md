@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jakob Johnson</h1>
-<h3 align="center">A passionate Fullstack Developer from Los Angeles</h3>
+<h3 align="center">A passionate Fullstack Developer from Saint Paul, Minnesota</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/yaekyon" target="blank"><img src="https://img.shields.io/twitter/follow/yaekyon?logo=twitter&style=for-the-badge" alt="yaekyon" /></a> </p>
 
-- 🔭 I’m currently working on **Limber**
+- 🔭 I’m currently working on **Promptly, VibeCheck, and 7Streams**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, React, Native, Fullstack**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, JavaScript, Node.js, React, Git, GitHub**
 
 - 👯 I’m looking to collaborate on **FitFuel**
 
 - 💬 Ask me about **Metana**
 
-- 📫 How to reach me **jakobmjohnson9@gmail.com**
+- 📫 How to reach me **hellojakejohn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
