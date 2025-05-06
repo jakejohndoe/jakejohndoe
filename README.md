@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Promptly, VibeCheck, and 7Streams**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, JavaScript, Node.js, React, Git, GitHub**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, React, Git, GitHub**
 
 - 👯 I’m looking to collaborate on **FitFuel**
 
