@@ -1,111 +1,124 @@
 <div align="center">
 
-# 🚀 Jakob Johnson | Blockchain Developer
+# Jakob Johnson
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Blockchain+Developer;Smart+Contract+Engineer;DeFi+Protocol+Builder;Web3+Innovator)](https://git.io/typing-svg)
+**Blockchain Developer** | Building DeFi protocols and Web3 applications
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+[Twitter](https://x.com/jakejohnhello) • [LinkedIn](https://linkedin.com/in/jakejohndoe) • [Instagram](https://instagram.com/jakejohndoe) • [Email](mailto:hellojakejohn@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-**Blockchain Developer** passionate about building the decentralized future | **Metana Bootcamp Graduate** 🎓
+Blockchain developer from Saint Paul, Minnesota, focused on building smart contracts and DeFi protocols. Currently deep in Solidity and Foundry, working on everything from escrow systems to liquidity pools.
 
-```javascript
-const jakob = {
-    location: "Saint Paul, Minnesota 🏔️",
-    currentFocus: "Building innovative DeFi protocols",
-    education: "Metana Web3 Bootcamp Graduate",
-    interests: ["DeFi", "Smart Contracts", "NFTs", "DAOs"],
-    funFact: "I debug smart contracts faster than I debug my sleep schedule ⚡"
-};
+When I'm not writing smart contracts, I'm building full-stack Web3 applications that bridge traditional web experiences with blockchain technology.
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Jakob {
+    string public location = "Saint Paul, Minnesota";
+    string public currentFocus = "DeFi protocols & smart contract development";
+    string public education = "Metana Web3 Bootcamp Graduate";
+    
+    function getCurrentWork() public pure returns (string[] memory) {
+        string[] memory projects = new string[](2);
+        projects[0] = "ReWork - Resume tailoring platform";
+        projects[1] = "Welp - Blockchain loyalty rewards platform";
+        return projects;
+    }
+}
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🔧 Tech Stack
 
-### 🔗 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+**Blockchain & Smart Contracts**
 
-### 💻 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Frontend & Backend**
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-## 🚀 Current Projects
+**Tools & Infrastructure**
 
-<div align="center">
-
-| 🏗️ **Promptly** | 🎵 **VibeCheck** | 📺 **7Streams** |
-|------------------|------------------|-----------------|
-| AI-powered prompt marketplace | Music mood analyzer dApp | Decentralized streaming platform |
-| `Solidity` `React` `IPFS` | `Web3.js` `Node.js` `AI` | `Smart Contracts` `Next.js` |
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jakejohndoe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakejohndoe&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### [ReWork](https://www.rework.solutions) - Resume Tailoring Platform
+A full-stack application that helps job seekers customize their resumes for specific positions using AI-powered analysis.
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakejohndoe&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+**Tech:** React, Next.js, TypeScript, MongoDB
 
 ---
 
-## 🏆 Achievements & Certifications
+### [Welp](https://www.welp.network) - Blockchain Loyalty Rewards Platform
+A decentralized loyalty and review platform connecting businesses with customers through blockchain-based rewards.
 
-🎓 **Metana Web3 Bootcamp Graduate** - Advanced Blockchain Development  
-🔥 **Smart Contract Security** - Audit-ready code practices  
-⚡ **DeFi Protocol Development** - Building the financial future  
-🌟 **NFT Marketplace Creation** - Full-stack Web3 applications  
+**Tech:** Solidity, React, Next.js, Web3.js *(Blockchain integration in progress)*
 
 ---
 
-## 💬 Let's Connect & Build the Future
+### Smart Contract Development
+Currently building DeFi protocols including:
+- Deterministic escrow systems
+- Staking and minting contracts
+- Liquidity pools and rewards distribution
+- ERC20/ERC721 token implementations
 
-<div align="center">
+**Tech:** Solidity, Foundry, OpenZeppelin
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yaekyon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakejohndoe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jakejohndoe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojakejohn@gmail.com)
+---
 
-**💡 Open to collaborate on:** DeFi protocols, NFT projects, DAO development, and Web3 innovations
+## 📚 Currently Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=jakejohndoe&label=Profile%20views&color=0e75b6&style=for-the-badge)
+- Advanced DeFi protocol design patterns
+- Smart contract security and auditing with Foundry
+- Gas optimization techniques
+- MEV (Maximal Extractable Value) strategies
 
-</div>
+---
+
+## 🎓 Education & Certifications
+
+**Metana Web3 Bootcamp Graduate** - Advanced Blockchain Development
+
+Focused on Solidity development, smart contract security, DeFi protocols, and full-stack Web3 application development.
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively seeking **junior blockchain developer** or **smart contract developer** positions where I can contribute to DeFi protocols, NFT projects, or Web3 applications.
+
+**What I bring:**
+- Strong foundation in Solidity and smart contract development
+- Full-stack development experience with modern web technologies
+- Passion for building decentralized systems
+- Two live production applications demonstrating end-to-end capability
 
 ---
 
 <div align="center">
 
-### 🌟 "Building the decentralized web, one smart contract at a time" 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+*"Building the decentralized web, one smart contract at a time"*
 
 </div>
